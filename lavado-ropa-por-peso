@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Lavado de Prendas por Peso en Bogotá - Lavandería Express</title>
+  <meta name="description" content="Servicio especializado de lavado de prendas por unidad en Bogotá. Cuida tus prendas delicadas con Lavandería Express Bogotá. ¡Recogida y entrega a domicilio!
+">
+  <meta name="Keywords" content="lavado de ropa por peso, lavandería en Bogotá, lavado de ropa en Bogotá, servicio de lavandería por peso, lavandería a domicilio Bogotá, lavado de ropa barata">
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Active
+  * Template URL: https://bootstrapmade.com/active-bootstrap-website-template/
+  * Updated: Aug 07 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="portfolio-details-page">
+
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1 class="sitename">Lavandería Express Bogotá</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+            <li><a href="index.html" class="active">Nosotros</a></li>
+          <li class="dropdown"><a href="#"><span>Servicios</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Lavado de Prendas por Unidad</a></li>
+              <li><a href="#">Lavado de Ropa por Peso</a></li>
+              <li><a href="#">Lavandería de Artículos del Hogar</a></li>
+              <li><a href="#">Lavado de Calzado</a></li>
+              <li><a href="#">Tratamientos Especiales</a></li>
+              <li><a href="#">Otros Servicios</a></li>
+            </ul>
+          </li>
+
+          
+          <li class="dropdown"><a href="#"><span>Áreas de Cobertura</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Usaquén</a></li>
+              <li><a href="#">Chapinero</a></li>
+              <li><a href="#">Suba</a></li>
+            </ul>
+          </li>
+          
+          <li><a href="#">Blog</a></li>
+          <li><a href="https://api.whatsapp.com/send?phone=573112723867&text=%F0%9F%91%8B%20Hola%20Ana%20%F0%9F%91%8B%0A%0AQuiero%20programar%20la%20recogida%20de%20mi%20ropa%20para%20la%20lavander%C3%ADa.%0A%0A%C2%BFCu%C3%A1ndo%20puedes%20pasar%20por%20ella%3F">Reservar Ahora</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Page Title -->
+    <div class="page-title light-background">
+      <div class="container">
+        <h1>Lavado de ropa por peso</h1>
+        <nav class="breadcrumbs">
+          <ol>
+            <li><a href="index.html">Servicios</a></li>
+            <li class="current">Lavado de prendas por peso</li>
+          </ol>
+        </nav>
+      </div>
+    </div><!-- End Page Title -->
+
+<!-- Portfolio Details Section -->
+<section id="portfolio-details" class="portfolio-details section">
+
+  <div class="container" data-aos="fade-up">
+    
+    <div class="row justify-content-between gy-4">
+
+      <div class="col-lg-8" data-aos="fade-up">
+        <div class="portfolio-description">
+          <h2>Servicio de Lavado de Ropa por Peso en Bogotá</h2>
+          <p>
+            En Lavandería Express Bogotá, ofrecemos un práctico servicio de lavado de ropa por peso para facilitar tu vida diaria.
+          </p>
+          <p>
+            Este servicio está diseñado para quienes tienen grandes cantidades de ropa y buscan una solución rápida y eficiente para mantener sus prendas limpias y frescas.
+
+          </p>
+          <a href="https://api.whatsapp.com/send?phone=573057254002&amp;text=%C2%A1Hola!%20Vengo%20de%20tu%20p%C3%A1gina%20web%2C%20me%20gustar%C3%ADa%20tu%20ayuda%20con%20uno%20de%20mis%20trabajos.%20%E2%9C%8C%EF%B8%8F%F0%9F%92%A5" class="btn btn-success d-inline-flex align-items-center">
+          <i class="bi bi-whatsapp me-2"></i> Programa tu recogida.
+        </a>
+<br>
+          <br>
+          <div class="testimonial-item">
+            <p>
+              <i class="bi bi-quote quote-icon-left"></i>
+              <span>Su servicio de lavado de ropa por peso ha sido una bendición para mí. Programo la recogida en los días que estoy en casa, y ellos se encargan de todo. Cuando regreso de un vuelo, encuentro mi ropa limpia, doblada y lista para usar. Este servicio me ha ahorrado tiempo y me permite disfrutar al máximo mis días libres.</span>
+              <i class="bi bi-quote quote-icon-right"></i>
+            </p>
+            <div>
+              <h3>Lina Martinez</h3>
+              <h4>Auxiliar de vuelo.</h4>
+            </div>
+          </div>
+
+          <p>
+<h3>Beneficios del Lavado de Ropa por Peso en Bogotá</h3>
+
+<ul>
+  <li><strong>Ahorro de Tiempo y Dinero:</strong> Lava grandes cantidades de ropa a un precio accesible.</li>
+  <li><strong>Cuidado Profesional:</strong>  Nos aseguramos de que cada carga de ropa sea lavada con productos de calidad que preservan los colores y tejidos.</li>
+  <li><strong>Comodidad Total:</strong> Ofrecemos recogida y entrega a domicilio, para que no tengas que preocuparte por nada.</li>
+</ul>
+          </p>
+          <p>
+            Nuestro servicio de lavado de ropa por peso está disponible en las principales áreas de Bogotá, incluyendo Usaquén, Chapinero, y Suba. Consulta nuestra página de Áreas de Cobertura para más detalles o enivanos un mensaje y verifica si llegamos a tu zona.
+          </p>
+<a href="https://api.whatsapp.com/send?phone=573057254002&amp;text=%C2%A1Hola!%20Vengo%20de%20tu%20p%C3%A1gina%20web%2C%20me%20gustar%C3%ADa%20tu%20ayuda%20con%20uno%20de%20mis%20trabajos.%20%E2%9C%8C%EF%B8%8F%F0%9F%92%A5" class="btn btn-success d-inline-flex align-items-center">
+          <i class="bi bi-whatsapp me-2"></i> Programa tu recogida.
+        </a>
+        </div>
+      </div>
+
+      <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+        <div class="portfolio-info">
+          <h3>Tipo de Prendas</h3>
+          <ul>
+            <li><strong>Superior</strong> Chaquetas</li>
+                <li></li> Sacos</li>
+                <li></li> Camisas</li>
+                <li></li> Camisetas</li>
+                <li></li> Buzo</li>
+              <li><strong>Inferior</strong> Jeans</li> 
+                <li></li>Faldas</li>
+                <li></li>Shorts</li>
+                <li></li>Leggins</li>
+                <li>Sudaderas</li>
+            <li><strong>Adicionales</strong>Ropa Interior</li>
+<li> Ropa de Dormir </li>
+<li> Ropa Deportiva </li>
+<li> Accesorios </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="portfolio-details-slider swiper init-swiper mt-4">
+      <script type="application/json" class="swiper-config">
+        {
+          "loop": true,
+          "speed": 600,
+          "autoplay": {
+            "delay": 5000
+          },
+          "slidesPerView": "auto",
+          "navigation": {
+            "nextEl": ".swiper-button-next",
+            "prevEl": ".swiper-button-prev"
+          },
+          "pagination": {
+            "el": ".swiper-pagination",
+            "type": "bullets",
+            "clickable": true
+          }
+        }
+      </script>
+      <div class="swiper-wrapper align-items-center">
+
+        <div class="swiper-slide">
+          <img src="assets/img/portfolio/app-1.jpg" alt="">
+        </div>
+
+        <div class="swiper-slide">
+          <img src="assets/img/portfolio/product-1.jpg" alt="">
+        </div>
+
+        <div class="swiper-slide">
+          <img src="assets/img/portfolio/branding-1.jpg" alt="">
+        </div>
+
+        <div class="swiper-slide">
+          <img src="assets/img/portfolio/books-1.jpg" alt="">
+        </div>
+
+      </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+
+  </div>
+
+</section><!-- /Portfolio Details Section -->
+
+  </main>
+
+ <footer id="footer" class="footer light-background">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-3 mb-3 mb-md-0">
+        <div class="widget">
+          <h3 class="widget-heading">Sobre Ana</h3>
+          <p class="mb-4">
+            Soy Ana, con más de 38 años de experiencia en lavandería, me encargo de tus prendas como si se tratara de la mía
+<br>
+ La excelencia y yo... Un solo corazón.
+            
+          </p>
+          <p class="mb-0">
+            <a href="https://api.whatsapp.com/send?phone=573112723867&text=%F0%9F%91%8B%20Hola%20Ana%20%F0%9F%91%8B%0A%0AQuiero%20programar%20la%20recogida%20de%20mi%20ropa%20para%20la%20lavander%C3%ADa.%0A%0A%C2%BFCu%C3%A1ndo%20puedes%20pasar%20por%20ella%3F" class="btn-learn-more">Contacta Conmigo</a>
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3 offset-lg-6 d-flex justify-content-lg-end">
+        <div class="widget">
+          <h3 class="widget-heading">Connect</h3>
+          <ul class="list-unstyled social-icons light mb-3">
+            <li>
+              <a href="#"><span class="bi bi-facebook"></span></a>
+            </li>
+            <li>
+              <a href="#"><span class="bi bi-instagram"></span></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+      <div class="copyright d-flex flex-column flex-md-row align-items-center justify-content-md-between">
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">Active.</strong> <span>All Rights Reserved</span></p>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you've purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
